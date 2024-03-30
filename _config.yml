@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Ahmad Najmi Ariffin"
 description              : &description "personal description"
-url                      : https://anajmiariffin.netlify.app/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://anajmiariffin.netlify.app" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "booluckgmie/anajmiariffin.github.io"
 
