@@ -24,8 +24,9 @@ Announcements!
 | --------         | ------ | ------------------------------------------------------------ |
 | Taipy: Automation node for Data Analysis  | Najmi Ariffin | MR-E3-01, TBA, 2-3 |
 | AWS Pipeline to PriceCatcher + OpenDOSM Publication | Najmi, OpenDOSM Team | MR-E3-01, 4/4/2024, 2-3pm |
-| Github Action Setup: Open data crowdsourcing| Najmi, OpenDOSM Team | MR-E3-01, TBA|
-pm | 
+| Github Action Setup: Open data crowdsourcing | Najmi, OpenDOSM Team | MR-E3-01, TBA|
+
 <!--|TBD | Dr. Dewi binti Amat Sapuan | MR-E3-01, 2/5/2024|
 -->
+
 Contact me via email if you are interested in presenting and/or attending!
