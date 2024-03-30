@@ -21,10 +21,10 @@ repository               : "booluckgmie/anajmiariffin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://avatars.githubusercontent.com/u/19993119?s=96&v=4"
   name             : "Your Sidebar Name"
-  pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand .sidebar"
+  pronouns         : "Statistician/Data Scientist"  
+  bio              : # "Short biography for the left-hand .sidebar"
   location         : "Putrajaya, Malaysia"
   employer         : "University of Malaya"
   uri              : # URL
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "booluckgmie"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
