@@ -14,17 +14,18 @@ Neehaw! Selamat datang! My name is Najmi, graduated from the University of Malay
 Announcements!
 ======
 
-### New Working Technical Paper : [Streamlining Reload PIN Acquisition: 
-A Structured Survey Approach](https://docs.google.com/document/d/1wsDEBy2Wk4tWl594_rTH2pE7Uasb7veVRBPQc4eT9T4/view)
+### New Working Technical Paper : 
+[Streamlining Reload PIN Acquisition - A Structured Survey Approach]("https://docs.google.com/document/d/1wsDEBy2Wk4tWl594_rTH2pE7Uasb7veVRBPQc4eT9T4/view")
 
 
 ### Sharing Session Schedule
 
-<!--| Workshop          | Presenter  |     Date and Location                                                       |
+| Workshop          | Presenter  |     Date and Location                                                       |
 | --------         | ------ | ------------------------------------------------------------ |
-| R: How to clean and prepare survey data for analysis | Jia Wei Chin | MR-E3-01, 21/3/2024, 2-3 pm | 
-|Inverted Pyramid Writing Style Workshop | Milaine Thia | MR-E3-01, 4/4/2024, 2-3pm |
-|Green Financing Policy Diffusion in the ASEAN Region| Aimi Azman, Pieter Stek, Emir Izat | MR-E3-01, 18/4/2024|
-|TBD | Dr. Dewi binti Amat Sapuan | MR-E3-01, 2/5/2024|
+| Taipy: Automation node for Data Analysis  | Najmi Ariffin | MR-E3-01, TBA, 2-3 |
+| AWS Pipeline to PriceCatcher + OpenDOSM Publication | Najmi, OpenDOSM Team | MR-E3-01, 4/4/2024, 2-3pm |
+| Github Action Setup: Open data crowdsourcing| Najmi, OpenDOSM Team | MR-E3-01, TBA|
+pm | 
+<!--|TBD | Dr. Dewi binti Amat Sapuan | MR-E3-01, 2/5/2024|
 -->
 Contact me via email if you are interested in presenting and/or attending!
