@@ -22,7 +22,7 @@ repository               : "booluckgmie/anajmiariffin.github.io"
 author:
   # Biographic information
   avatar           : "https://avatars.githubusercontent.com/u/19993119?s=96&v=4"
-  name             : "Your Sidebar Name"
+  name             : "Ahmad Najmi Ariffin"
   pronouns         : "Statistician/Data Scientist"  
   bio              : # "Short biography for the left-hand .sidebar"
   location         : "Putrajaya, Malaysia"
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Ahmad-Ariffin-11"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
