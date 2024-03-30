@@ -14,7 +14,8 @@ Within his forte, his current research is focused on integrating studies of the 
 
 “Empowering +Emotional Intelligence for better future.”
 
-Announcements!
+## Announcements!
+
 ======
 
 ### New Working Technical Paper : 
