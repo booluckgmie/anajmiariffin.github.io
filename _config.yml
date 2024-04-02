@@ -21,21 +21,21 @@ repository               : "booluckgmie/anajmiariffin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://avatars.githubusercontent.com/u/19993119?s=96&v=4"
+  avatar           : "https://avatars.githubusercontent.com/u/19993119?s=400&u=ee819fdf5f51eafacb6678cbfedf9656f9a0e3c5&v=4"
   name             : "Ahmad Najmi Ariffin"
   pronouns         : "Statistician/Data Scientist"  
   bio              : # "Short biography for the left-hand .sidebar"
   location         : "Putrajaya, Malaysia"
-  employer         : "University of Malaya"
+  employer         : "Department of Statistics Malaysia"
   uri              : # URL
   email            : "anajmiariffin@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=OQnJB9gAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : "https://orcid.org/0000-0002-7730-784X"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Ariffin+AN&cauthor_id=36292363"
   researchgate     : "https://www.researchgate.net/profile/Ahmad-Ariffin-11"
 
   # Repositories and software development
