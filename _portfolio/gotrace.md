@@ -1,6 +1,6 @@
 ---
 title: " Sektor Informal & Industri Mikro (SIIM)/ Informal Sector & Micro Industry"
-excerpt: "The Department of Statistics Malaysia (DOSM) is leading the development of a comprehensive database for the informal sector and micro industries (SIIM) to collect and manage data on informal sector individuals and businesses. <br/><img src='https://i.ibb.co/LhQHpZx/image.png'>"
+excerpt: "The Department of Statistics Malaysia (DOSM) is leading the development of a comprehensive database for the informal sector and micro industries (SIIM) to collect and manage data on informal sector individuals and businesses. <br/><img src='https://i.ibb.co/LhQHpZx/image.png'>"<br/> -----------------------------
 collection: portfolio
 ---
 
