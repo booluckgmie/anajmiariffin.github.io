@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src='https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg'><br/>
+<img src='https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg'><br/><br/>
 Neehaw! Selamat datang! My name is Najmi, graduated from the University of Malaya (UM) with a Master’s in Applied Statistics. I have joined the Department of Statistics Malaysia (DOSM) in 2019 as Statistician and currently strives doing his PhD degree part-time in Health Economics at National University of Malaysia (UKM), Kuala Lumpur. 
 
 Within his forte, his current research is focused on integrating studies of the data science fields, government policy and healthcare activities through application of GIS technology. With 5 years experiences in big data, he works closely with Core Team Big Data Analytics at DOSM on establishing informal sector national database with the collaboration of several government agencies and modernising data on Big Data Analytics project. 
