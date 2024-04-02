@@ -14,5 +14,5 @@ main:
   - title: "Blog Posts"
     url: https://ukkdosm.github.io/blog/
     
-  #- title: "CV"
-    #url: /cv/
+  - title: "CV"
+    url: /cv/
