@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download CV](/files/najmi-ariffin-cv202403.pdf)
-
+[Download CV](https://anajmiariffin.netlify.app/files/najmi-ariffin-cv202403.pdf)
 
 {% include base_path %}
 
