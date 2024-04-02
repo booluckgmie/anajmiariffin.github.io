@@ -1,3 +1,19 @@
+<style>
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+</style>
+
 ---
 layout: archive
 title: "CV"
@@ -6,6 +22,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+[Download CV]('http://academicpages.github.io/files/najmi-ariffin-cv202403.pdf'){: .btn .btn--primary}
+
 
 {% include base_path %}
 
