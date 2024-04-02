@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download CV]('http://anajmiariffin.github.io/files/najmi-ariffin-cv202403.pdf')
+[Download CV]('/files/najmi-ariffin-cv202403.pdf')
 
 
 {% include base_path %}
