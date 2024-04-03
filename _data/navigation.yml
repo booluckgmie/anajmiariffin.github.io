@@ -3,13 +3,13 @@ main:
     url: /portfolio/
     
   - title: "Publications"
-    url: /publications/
+    url: https://www.researchgate.net/profile/Ahmad-Ariffin-11/research #/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: #/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: #/teaching/    
         
   - title: "Blog Posts"
     url: https://ukkdosm.github.io/blog/
