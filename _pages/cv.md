@@ -11,8 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-{% comment %} 
-These commments will not include inside the source.
+<!---
 
 Education
 ======
@@ -68,4 +67,4 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 
-{% endcomment %}
+--->
