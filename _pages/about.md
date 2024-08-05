@@ -13,7 +13,7 @@ redirect_from:
 
 Within his forte, his current research is focused on integrating studies of the data science fields, government policy and healthcare activities through application of GIS technology. With 5 years experiences in big data, he works closely with Core Team Big Data Analytics at DOSM on establishing informal sector national database with the collaboration of several government agencies and modernising data on Big Data Analytics project. 
 
-In July 2024, just onboarding to PETRONAS as an Executive (Industry Advisory), where he continues to leverage his expertise in data science and analytics to drive innovation and efficiency within the industry.
+In July 2024, just onboarding to PETRONAS as an Executive (Industry Advisory), where continues to leverage my expertise in data science and analytics to drive innovation and efficiency within the industry.
 </p>
 “Empowering +Emotional Intelligence for better future.”
 
