@@ -1,6 +1,7 @@
 
 # Academic Pages
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9eff3b56-862f-4bb2-a25c-351e67c768d6/deploy-status)](https://app.netlify.com/sites/anajmiariffin/deploys)
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 
 Academic Pages is a Github Pages template for academic websites.
