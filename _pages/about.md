@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src='https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg'><br/><br/>
+<img src='https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg'><br/>
 <p style="text-align: justify;">
   Neehaw! Selamat datang! My name is Najmi, graduated from the University of Malaya (UM) with a Master’s in Applied Statistics.I hold a Master’s in Applied Statistics from the University of Malaya (UM) and am currently pursuing a PhD in Health Economics at the National University of Malaysia (UKM), Kuala Lumpur. My research focuses on integrating data science, government policy, and healthcare activities through the application of GIS technology.</p>
 <p></p>
