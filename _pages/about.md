@@ -18,7 +18,7 @@ redirect_from:
 <p style="text-align: justify;">In 2019, I joined the Department of Statistics Malaysia (DOSM) as a Statistician. Within my forte, the current research is focused on integrating studies of the data science fields, government policy and healthcare activities through application of GIS technology. With 5 years experiences in big data, I works closely with Core Team Big Data Analytics at DOSM on establishing informal sector national database with the collaboration of several government agencies and modernising data on Big Data Analytics project. </p>
 <p></p>
 <p style="text-align: justify;">In July 2024, I joined PETRONAS as an Executive (Industry Advisory), leveraging my expertise in data science and analytics to drive innovation and efficiency within the industry. My role involves analyzing the OGSE landscape, gathering market intelligence, and providing strategic insights. I also facilitate cross-functional collaboration to enhance internal synergies across the organization. By integrating data analytics with strategic industry analysis, I contribute to strengthening PETRONAS’ industry advisory capabilities, supporting informed decision-making and improving operational efficiency.</p>
-</p><br>
+<br>
 “Empowering +Emotional Intelligence for better future.”
 
 ## Announcements!
