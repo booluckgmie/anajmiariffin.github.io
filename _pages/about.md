@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### Skills Chart Legend:
-<span style="color: #563d7c">⬤</span> **CSS** | <span style="color: #e34c26">⬤</span> **HTML** | <span style="color: #22e4e8">⬤</span> **JSON** | <span style="color: #f1e05a">⬤</span> **JavaScript** | <span style="color: #DA5B0B">⬤</span> **Jupyter Notebook** | <span style="color: #3572A5">⬤</span> **Python** | <span style="color: #26c0b0">⬤</span> **SCSS** | <span style="color: #808080">⬤</span> **Other**
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 <br/>
 <p style="text-align: justify;">
