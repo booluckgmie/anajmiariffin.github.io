@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+### Skills : 🟣 **CSS**  🟠 **HTML**  🔵 **JSON**  🟡 **JavaScript**  🟤 **Jupyter Notebook**  🔵 **Python**  🔵 **SCSS**  ⚪ **Other**
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 <br/>
 <p style="text-align: justify;">
