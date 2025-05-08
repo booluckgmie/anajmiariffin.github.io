@@ -1,6 +1,6 @@
 ---
 title: 'MICE or ML? A Purrfect Solution for Data Imputation'
-date: 2025-05-21
+date: 2024-05-21
 permalink: /posts/2024/05/blog-miceq/
 tags:
   - cool posts
