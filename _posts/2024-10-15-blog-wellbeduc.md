@@ -8,8 +8,6 @@ tags:
   - education
 ---
 
-## Trends in Lecturer and Academician Well-Being: Global, Asian, and Malaysian Perspectives
-
 The well-being of university lecturers and academic staff has emerged as a critical area of research, reflecting broader societal concerns about occupational mental health, job satisfaction, and institutional support systems. This report synthesizes existing trend data on academic well-being at global, regional (Asia), and national (Malaysia) levels, drawing from longitudinal studies, well-being indices, and scientometric analyses. Key findings reveal declining well-being trends in high-income countries, gendered disparities in satisfaction levels, and a paucity of localized data in Asian and Malaysian contexts. Institutional factors such as leadership quality, workload management, and research productivity emerge as universal determinants, while regional disparities highlight the need for context-specific interventions.
 
 ### Global Trends in Academic Well-Being
