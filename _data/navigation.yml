@@ -12,7 +12,7 @@ main:
     url: https://github.com/booluckgmie/training  
         
   - title: "Blog Posts"
-    url: https://ukkdosm.github.io/blog/
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
