@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking Longevity: Lessons from the Blue Zones and a Malaysian Perspective'
+title: 'Unlocking Longevity: Lessons from the Blue Zones'
 date: 2023-09-05
 permalink: /posts/2023/09/blog-bluezone/
 tags:
@@ -8,7 +8,9 @@ tags:
   - malaysia
 ---
 
-Have you ever pondered the secrets to a long and vibrant life? The Netflix docuseries "Live to 100: Secrets of the Blue Zones" has captivated audiences by exploring regions across the globe where people consistently live remarkably long and healthy lives. These "Blue Zones" offer profound insights into lifestyle factors that contribute to exceptional longevity, and a closer look, even through a Malaysian lens, reveals both universal truths and unique local contexts.
+Have you ever pondered the secrets to a long and vibrant life? The Netflix docuseries "Live to 100: Secrets of the Blue Zones" has captivated audiences by exploring regions across the globe where people consistently live remarkably long and healthy lives. 
+
+These "Blue Zones" offer profound insights into lifestyle factors that contribute to exceptional longevity, and a closer look, even through a Malaysian lens, reveals both universal truths and unique local contexts.
 
 The series takes us on a fascinating journey to several of these longevity hotspots. First stop: Costa Rica's **Nicoya Peninsula**. Here, the rate of individuals reaching their centennial year is double that of the United States. Their secret? A predominantly plant-based diet, rich in local staples, coupled with strong social connections and a deep sense of community. The emphasis on family and mutual support provides a powerful buffer against the stresses of life, fostering both physical and mental well-being.
 
