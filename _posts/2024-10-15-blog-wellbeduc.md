@@ -95,17 +95,18 @@ Natural language processing of grant proposals identifies stress markers; applic
 The well-being of university lecturers serves as both a barometer of educational system health and a predictor of societal innovation capacity. While global trends highlight universal stressors like productivity demands and work-life imbalance, regional disparities in Asia and data gaps in Malaysia underscore the need for localized research frameworks. Emerging tools from psychometrics and data science offer promising avenues for real-time monitoring, but their efficacy hinges on institutional willingness to prioritize human capital over traditional output metrics. Future studies must bridge the Global North-South divide in well-being scholarship, ensuring that interventions reflect the diverse cultural, economic, and political realities shaping academic lives worldwide.
 
 ### References
-[1] https://worldhappiness.report/ed/2024/child-and-adolescent-well-being-global-trends-challenges-and-opportunities/
-[2] https://medicine.iu.edu/faculty/evaluation-and-research/faculty-vitality-survey
-[3] https://novopsych.com/assessments/well-being/personal-wellbeing-index-adult-5-pwi-a/
-[4] https://www.wilmarschaufeli.nl/publications/Schaufeli/455.pdf
-[6] https://mjphm.org/index.php/mjphm/article/view/2622
-[11] https://www.oecd.org/en/topics/students-well-being.html
-[14] https://www.oecd.org/en/publications/trends-shaping-education-2025_ee6587fd-en.html
-[16] https://www.aseanjournalofpsychiatry.org/articles/psychological-distress-burnout-and-job-satisfaction-among-academicians-in-science-and-technology-faculties-in-a-malaysia.pdf 1 
-[24] https://research-portal.uu.nl/en/publications/the-longitudinal-development-of-employee-well-being-a-systematic-
-[26] https://www.higheredtoday.org/2024/10/28/new-report-sheds-light-on-college-faculty-and-staff-mental-health/
-[31] https://www.who.int/publications/m/item/WHO-UCN-MSD-MHE-2024.01
-[36] https://www.tandfonline.com/doi/full/10.1080/15555240.2024.2341741   
+
+* [1] World Happiness Report 2024 - Child and Adolescent Well-being: Global Trends, Challenges, and Opportunities: [https://worldhappiness.report/ed/2024/child-and-adolescent-well-being-global-trends-challenges-and-opportunities/](https://worldhappiness.report/ed/2024/child-and-adolescent-well-being-global-trends-challenges-and-opportunities/)
+* [2] Faculty Vitality Survey - Indiana University School of Medicine: [https://medicine.iu.edu/faculty/evaluation-and-research/faculty-vitality-survey](https://medicine.iu.edu/faculty/evaluation-and-research/faculty-vitality-survey)
+* [3] Personal Wellbeing Index – Adult (5th Edition) (PWI-A) - The Australian Centre on Quality of Life: [https://novopsych.com/assessments/well-being/personal-wellbeing-index-adult-5-pwi-a/](https://novopsych.com/assessments/well-being/personal-wellbeing-index-adult-5-pwi-a/)
+* [4] Burnout: A Review of Theory and Research - Annual Review of Health Psychology: [https://www.wilmarschaufeli.nl/publications/Schaufeli/455.pdf](https://www.wilmarschaufeli.nl/publications/Schaufeli/455.pdf)
+* [6] Malaysian Journal of Public Health Medicine - Mental Health Research on Asian University Staff: A Scientometric Analysis: [https://mjphm.org/index.php/mjphm/article/view/2622](https://mjphm.org/index.php/mjphm/article/view/2622)
+* [11] OECD - Students' Well-being: [https://www.oecd.org/en/topics/students-well-being.html](https://www.oecd.org/en/topics/students-well-being.html)
+* [14] OECD Publishing - Trends Shaping Education 2025: [https://www.oecd.org/en/publications/trends-shaping-education-2025_ee6587fd-en.html](https://www.oecd.org/en/publications/trends-shaping-education-2025_ee6587fd-en.html)
+* [16] ASEAN Journal of Psychiatry - Psychological Distress, Burnout and Job Satisfaction Among Academicians in Science and Technology Faculties in a Malaysia University: [https://www.aseanjournalofpsychiatry.org/articles/psychological-distress-burnout-and-job-satisfaction-among-academicians-in-science-and-technology-faculties-in-a-malaysia.pdf](https://www.aseanjournalofpsychiatry.org/articles/psychological-distress-burnout-and-job-satisfaction-among-academicians-in-science-and-technology-faculties-in-a-malaysia.pdf)
+* [24] Utrecht University Repository - The Longitudinal Development of Employee Well-being: A Systematic Review: [https://research-portal.uu.nl/en/publications/the-longitudinal-development-of-employee-well-being-a-systematic-](https://research-portal.uu.nl/en/publications/the-longitudinal-development-of-employee-well-being-a-systematic-)
+* [26] Higher Ed Today - New Report Sheds Light on College Faculty and Staff Mental Health: [https://www.higheredtoday.com/2024/10/28/new-report-sheds-light-on-college-faculty-and-staff-mental-health/](https://www.higheredtoday.com/2024/10/28/new-report-sheds-light-on-college-faculty-and-staff-mental-health/)
+* [31] World Health Organization - WHO-5 Well-being Index: [https://www.who.int/publications/m/item/WHO-UCN-MSD-MHE-2024.01](https://www.who.int/publications/m/item/WHO-UCN-MSD-MHE-2024.01)
+* [36] International Review of Journal Studies - Cross-Cultural Validation of the Personal Well-being Index (PWI): A Meta-Analysis: [https://www.tandfonline.com/doi/full/10.1080/15555240.2024.2341741](https://www.tandfonline.com/doi/full/10.1080/15555240.2024.2341741)
 
 ------
