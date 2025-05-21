@@ -7,7 +7,10 @@ tags:
   - jobs/graduates
   - malaysia
 ---
-![Graduate Mismatch in Malaysia](https://fast.image.delivery/mmmokeu.png)
+<p align="center">
+  <img src="https://fast.image.delivery/mmmokeu.png" alt="Graduate Mismatch in Malaysia" width="30%"/>
+</p>
+
 In Malaysia, a significant portion of university graduates work in jobs unrelated to their fields of study, reflecting a considerable mismatch between education and employment sectors.
 
 ## Key Statistics on Graduate Employment Mismatch in Malaysia
