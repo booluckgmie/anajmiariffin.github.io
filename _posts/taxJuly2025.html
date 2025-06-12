@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Infographic: Malaysia Service Tax Amendments (Effective 1 July 2025)</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .chart-container {
+            position: relative;
+            width: 100%;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+            height: 500px;
+        }
+        @media (max-width: 768px) {
+            .chart-container {
+                height: 600px;
+            }
+        }
+        .service-icon {
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            margin-bottom: 8px;
+        }
+        .service-card {
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .service-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+        }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800">
+
+    <header class="bg-[#003B73] text-white p-8 text-center shadow-lg">
+        <h1 class="text-4xl md:text-5xl font-extrabold mb-2">Navigating the New Service Tax Landscape</h1>
+        <p class="text-lg md:text-xl font-light">An Infographic on Malaysia's Service Tax Amendments, Effective 1 July 2025</p>
+    </header>
+
+    <main class="container mx-auto p-4 md:p-8">
+
+        <section id="introduction" class="mb-12">
+            <div class="bg-white rounded-lg shadow-md p-6 md:p-8">
+                <h2 class="text-3xl font-bold text-[#003B73] mb-4">A Broader Tax Base for a Stronger Economy</h2>
+                <p class="text-lg text-gray-700 leading-relaxed">Effective 1 July 2025, Malaysia is implementing significant amendments to its Service Tax framework. These changes, introduced through a series of updated Orders and Regulations, aim to strengthen the nation's fiscal position by expanding the scope of taxable services and refining tax rates. This infographic breaks down the key changes, helping businesses and consumers understand the new landscape, from rate adjustments to the inclusion of entirely new sectors like private healthcare, construction, and specific educational services.</p>
+            </div>
+        </section>
+
+        <section id="rate-changes" class="mb-12">
+            <h2 class="text-3xl font-bold text-center mb-8 text-[#003B73]">Service Tax Rates at a Glance</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
+                <div class="bg-white rounded-lg shadow-md p-6 flex flex-col justify-center items-center">
+                    <p class="text-lg font-semibold text-gray-600">Standard Rate</p>
+                    <p class="text-6xl font-extrabold text-[#0074D9]">8%</p>
+                    <p class="mt-2 text-gray-500">Applies to most taxable services, maintaining the rate set on March 1, 2024.</p>
+                </div>
+                <div class="bg-white rounded-lg shadow-md p-6 flex flex-col justify-center items-center">
+                    <p class="text-lg font-semibold text-gray-600">Specific Services Rate</p>
+                    <p class="text-6xl font-extrabold text-[#7FDBFF]">6%</p>
+                    <p class="mt-2 text-gray-500">A targeted rate for essential services and newly scoped sectors.</p>
+                </div>
+                <div class="bg-white rounded-lg shadow-md p-6 flex flex-col justify-center items-center">
+                    <p class="text-lg font-semibold text-gray-600">Credit/Charge Cards</p>
+                    <p class="text-6xl font-extrabold text-[#003B73]">RM25</p>
+                    <p class="mt-2 text-gray-500">A fixed annual rate per card, now including Syariah-compliant financing.</p>
+                </div>
+            </div>
+        </section>
+        
+        <section id="new-6-percent-services" class="mb-12">
+            <div class="bg-white rounded-lg shadow-md p-6 md:p-8">
+                <h3 class="text-2xl font-bold text-[#003B73] mb-4 text-center">Spotlight on the 6% Rate: Who's Included?</h3>
+                <p class="text-center text-gray-600 mb-8">The 6% service tax rate has been expanded to cover several new and existing categories. This strategic move aims to apply a lower tax rate to essential services and sectors being brought into the tax net for the first time, mitigating the financial impact on consumers and businesses in these key areas.</p>
+                
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+                    <div class="service-card bg-gradient-to-br from-blue-50 to-blue-100 p-6 rounded-lg border-l-4 border-[#7FDBFF]">
+                        <div class="service-icon bg-[#7FDBFF] text-white mx-auto">🍽️</div>
+                        <h4 class="font-bold text-center text-[#003B73] mb-2">Food & Beverages</h4>
+                        <p class="text-sm text-gray-600 text-center">Prepared food and beverage services</p>
+                        <div class="text-center mt-3">
+                            <span class="bg-[#7FDBFF] text-white px-3 py-1 rounded-full text-sm font-bold">6%</span>
+                        </div>
+                    </div>
+                    
+                    <div class="service-card bg-gradient-to-br from-blue-50 to-blue-100 p-6 rounded-lg border-l-4 border-[#7FDBFF]">
+                        <div class="service-icon bg-[#7FDBFF] text-white mx-auto">📡</div>
+                        <h4 class="font-bold text-center text-[#003B73] mb-2">Telecommunications</h4>
+                        <p class="text-sm text-gray-600 text-center">Telecommunication services</p>
+                        <div class="text-center mt-3">
+                            <span class="bg-[#7FDBFF] text-white px-3 py-1 rounded-full text-sm font-bold">6%</span>
+                        </div>
+                    </div>
+                    
+                    <div class="service-card bg-gradient-to-br from-blue-50 to-blue-100 p-6 rounded-lg border-l-4 border-[#7FDBFF]">
+                        <div class="service-icon bg-[#7FDBFF] text-white mx-auto">🅿️</div>
+                        <h4 class="font-bold text-center text-[#003B73] mb-2">Parking Services</h4>
+                        <p class="text-sm text-gray-600 text-center">Parking space services</p>
+                        <div class="text-center mt-3">
+                            <span class="bg-[#7FDBFF] text-white px-3 py-1 rounded-full text-sm font-bold">6%</span>
+                        </div>
+                    </div>
+                    
+                    <div class="service-card bg-gradient-to-br from-green-50 to-green-100 p-6 rounded-lg border-l-4 border-[#4ADE80]">
+                        <div class="service-icon bg-[#4ADE80] text-white mx-auto">🚚</div>
+                        <h4 class="font-bold text-center text-[#003B73] mb-2">Logistics</h4>
+                        <p class="text-sm text-gray-600 text-center">Logistic services</p>
+                        <div class="text-center mt-3">
+                            <span class="bg-[#4ADE80] text-white px-3 py-1 rounded-full text-sm font-bold">6%</span>
+                        </div>
+                    </div>
+                    
+                    <div class="service-card bg-gradient-to-br from-red-50 to-red-100 p-6 rounded-lg border-l-4 border-[#F87171]">
+                        <div class="service-icon bg-[#F87171] text-white mx-auto">🏥</div>
+                        <h4 class="font-bold text-center text-[#003B73] mb-2">Healthcare</h4>
+                        <p class="text-sm text-gray-600 text-center">Private healthcare services</p>
+                        <div class="text-center mt-3">
+                            <span class="bg-[#F87171] text-white px-3 py-1 rounded-full text-sm font-bold">6%</span>
+                        </div>
+                    </div>
+                    
+                    <div class="service-card bg-gradient-to-br from-purple-50 to-purple-100 p-6 rounded-lg border-l-4 border-[#A78BFA]">
+                        <div class="service-icon bg-[#A78BFA] text-white mx-auto">🌿</div>
+                        <h4 class="font-bold text-center text-[#003B73] mb-2">Traditional Medicine</h4>
+                        <p class="text-sm text-gray-600 text-center">Traditional & complementary medicine</p>
+                        <div class="text-center mt-3">
+                            <span class="bg-[#A78BFA] text-white px-3 py-1 rounded-full text-sm font-bold">6%</span>
+                        </div>
+                    </div>
+                    
+                    <div class="service-card bg-gradient-to-br from-teal-50 to-teal-100 p-6 rounded-lg border-l-4 border-[#2DD4BF]">
+                        <div class="service-icon bg-[#2DD4BF] text-white mx-auto">⚕️</div>
+                        <h4 class="font-bold text-center text-[#003B73] mb-2">Allied Health</h4>
+                        <p class="text-sm text-gray-600 text-center">Allied health services</p>
+                        <div class="text-center mt-3">
+                            <span class="bg-[#2DD4BF] text-white px-3 py-1 rounded-full text-sm font-bold">6%</span>
+                        </div>
+                    </div>
+                    
+                    <div class="service-card bg-gradient-to-br from-orange-50 to-orange-100 p-6 rounded-lg border-l-4 border-[#FB923C]">
+                        <div class="service-icon bg-[#FB923C] text-white mx-auto">🏗️</div>
+                        <h4 class="font-bold text-center text-[#003B73] mb-2">Construction</h4>
+                        <p class="text-sm text-gray-600 text-center">Construction works services</p>
+                        <div class="text-center mt-3">
+                            <span class="bg-[#FB923C] text-white px-3 py-1 rounded-full text-sm font-bold">6%</span>
+                        </div>
+                    </div>
+                    
+                    <div class="service-card bg-gradient-to-br from-indigo-50 to-indigo-100 p-6 rounded-lg border-l-4 border-[#818CF8]">
+                        <div class="service-icon bg-[#818CF8] text-white mx-auto">🎓</div>
+                        <h4 class="font-bold text-center text-[#003B73] mb-2">Education</h4>
+                        <p class="text-sm text-gray-600 text-center">Private education services</p>
+                        <div class="text-center mt-3">
+                            <span class="bg-[#818CF8] text-white px-3 py-1 rounded-full text-sm font-bold">6%</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="chart-container">
+                    <canvas id="sixPercentChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <section id="expanded-scope" class="mb-12">
+             <div class="bg-white rounded-lg shadow-md p-6 md:p-8">
+                <h2 class="text-3xl font-bold text-center mb-2 text-[#003B73]">Widening the Net: New Taxable Service Groups</h2>
+                <p class="text-center text-gray-600 mb-8 max-w-3xl mx-auto">The most significant change is the expansion of the service tax to cover new industries. The following table details the new and expanded groups, their taxable services, and the annual turnover thresholds for registration. This expansion targets high-value sectors while providing clear financial benchmarks for compliance.</p>
+                <div class="overflow-x-auto">
+                    <table class="min-w-full bg-white border border-gray-200">
+                        <thead class="bg-[#0074D9] text-white">
+                            <tr>
+                                <th class="py-3 px-4 uppercase font-semibold text-sm text-left">New/Expanded Group</th>
+                                <th class="py-3 px-4 uppercase font-semibold text-sm text-left">Description of Services Taxed</th>
+                                <th class="py-3 px-4 uppercase font-semibold text-sm text-center">Key Threshold (Annual Turnover)</th>
+                            </tr>
+                        </thead>
+                        <tbody class="text-gray-700">
+                            <tr class="border-b">
+                                <td class="py-3 px-4 font-bold">Group H: Financial Services</td>
+                                <td class="py-3 px-4">Fee/Commission-based services, Insurance/Takaful (non-life/medical), Credit Card activation (Nil threshold). Excludes interest, basic banking.</td>
+                                <td class="py-3 px-4 text-center font-semibold">RM500,000</td>
+                            </tr>
+                            <tr class="bg-gray-50 border-b">
+                                <td class="py-3 px-4 font-bold">Group I: Healthcare-Related</td>
+                                <td class="py-3 px-4">Operation of Private Healthcare Facilities, Traditional & Complementary Medicine, and Allied Health Services.</td>
+                                <td class="py-3 px-4 text-center font-semibold">RM1,500,000</td>
+                            </tr>
+                            <tr class="border-b">
+                                <td class="py-3 px-4 font-bold">Group K: Rental or Leasing</td>
+                                <td class="py-3 px-4">Rental of tangible assets. Excludes housing (incl. SOHO, serviced apts), reading materials, assets outside MY, financial leases.</td>
+                                <td class="py-3 px-4 text-center font-semibold">RM500,000</td>
+                            </tr>
+                            <tr class="bg-gray-50 border-b">
+                                <td class="py-3 px-4 font-bold">Group L: Construction Works</td>
+                                <td class="py-3 px-4">All construction works services. Excludes residential buildings and related public facilities (unless in a mixed development).</td>
+                                <td class="py-3 px-4 text-center font-semibold">RM1,500,000</td>
+                            </tr>
+                            <tr>
+                                <td class="py-3 px-4 font-bold">Group M: Education</td>
+                                <td class="py-3 px-4">Private education (pre-school to post-secondary) with fees > RM60k/student/year. Higher education & language centres for non-citizens.</td>
+                                <td class="py-3 px-4 text-center font-semibold">Nil</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+        
+        <section id="key-exemptions" class="mb-12">
+            <div class="bg-white rounded-lg shadow-md p-6 md:p-8">
+                <h2 class="text-3xl font-bold text-center mb-2 text-[#003B73]">Balancing the Impact: Key Exemptions</h2>
+                <p class="text-center text-gray-600 mb-8 max-w-3xl mx-auto">To ensure fairness and prevent cascading taxes, the government has introduced targeted exemptions. These are designed to protect citizens accessing essential services, support specific business-to-business transactions, and provide relief for persons with disabilities.</p>
+                <div class="space-y-6">
+                    <div class="flex items-start p-4 bg-blue-50 rounded-lg">
+                        <div class="text-2xl mr-4 text-[#0074D9]">👥</div>
+                        <div>
+                            <h4 class="font-bold text-lg text-[#003B73]">Malaysian Citizens (Healthcare)</h4>
+                            <p class="text-gray-700">Full exemption from service tax on private healthcare, traditional & complementary medicine, and allied health services. This ensures healthcare accessibility is not impacted for citizens.</p>
+                        </div>
+                    </div>
+                    <div class="flex items-start p-4 bg-blue-50 rounded-lg">
+                        <div class="text-2xl mr-4 text-[#0074D9]">🤝</div>
+                        <div>
+                            <h4 class="font-bold text-lg text-[#003B73]">Business-to-Business (B2B)</h4>
+                            <p class="text-gray-700">Providers of Rental/Leasing (Group K) and Construction (Group L) services are exempt when the service is for subleasing or is the same service they provide, preventing double taxation within the supply chain.</p>
+                        </div>
+                    </div>
+                    <div class="flex items-start p-4 bg-blue-50 rounded-lg">
+                        <div class="text-2xl mr-4 text-[#0074D9]">🎓</div>
+                        <div>
+                            <h4 class="font-bold text-lg text-[#003B73]">OKU Card Holders (Education)</h4>
+                            <p class="text-gray-700">Malaysian citizens holding a valid Kad OKU are exempt from service tax on specified private education services, ensuring continued access to education.</p>
+                        </div>
+                    </div>
+                     <div class="flex items-start p-4 bg-blue-50 rounded-lg">
+                        <div class="text-2xl mr-4 text-[#0074D9]">🏦</div>
+                        <div>
+                            <h4 class="font-bold text-lg text-[#003B73]">LFSA Regulated Persons</h4>
+                            <p class="text-gray-700">Persons regulated by the Labuan Financial Services Authority are exempt from service tax on financial services acquired for their regulated activities.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="bg-[#003B73] text-white text-center p-4 mt-8">
+        <p>Disclaimer: This infographic is for informational purposes only and is based on regulations P.U. (A) 172, 173, and 174. Please consult with a tax professional for advice on your specific situation.</p>
+    </footer>
+
+    <script>
+        function wrapLabel(str, maxWidth) {
+            if (str.length <= maxWidth) {
+                return str;
+            }
+            const words = str.split(' ');
+            let lines = [];
+            let currentLine = '';
+            for (const word of words) {
+                if ((currentLine + ' ' + word).trim().length > maxWidth && currentLine.length > 0) {
+                    lines.push(currentLine);
+                    currentLine = word;
+                } else {
+                    currentLine = (currentLine + ' ' + word).trim();
+                }
+            }
+            if (currentLine.length > 0) {
+                lines.push(currentLine);
+            }
+            return lines;
+        }
+        
+        const tooltipTitleCallback = function(tooltipItems) {
+            const item = tooltipItems[0];
+            let label = item.chart.data.labels[item.dataIndex];
+            if (Array.isArray(label)) {
+              return label.join(' ');
+            } else {
+              return label;
+            }
+        };
+
+        const servicesData = {
+            labels: [
+                'Food & Beverages',
+                'Telecommunications', 
+                'Parking Services',
+                'Logistics',
+                'Healthcare',
+                'Traditional Medicine',
+                'Allied Health',
+                'Construction',
+                'Education'
+            ],
+            datasets: [{
+                label: 'Service Categories at 6% Tax Rate',
+                data: [85, 95, 70, 80, 90, 65, 75, 88, 82],
+                backgroundColor: [
+                    '#7FDBFF', 
+                    '#7FDBFF', 
+                    '#7FDBFF', 
+                    '#4ADE80', 
+                    '#F87171', 
+                    '#A78BFA', 
+                    '#2DD4BF', 
+                    '#FB923C', 
+                    '#818CF8'  
+                ],
+                borderColor: '#003B73',
+                borderWidth: 2,
+                borderRadius: 8,
+                borderSkipped: false
+            }]
+        };
+
+        const ctxSixPercent = document.getElementById('sixPercentChart').getContext('2d');
+        Chart.register(ChartDataLabels);
+        
+        new Chart(ctxSixPercent, {
+            type: 'doughnut',
+            data: servicesData,
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: {
+                            usePointStyle: true,
+                            padding: 20,
+                            font: {
+                                size: 12
+                            }
+                        }
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return `${context.label}: 6% Tax Rate`;
+                            }
+                        }
+                    },
+                    datalabels: {
+                        color: 'white',
+                        font: {
+                            weight: 'bold',
+                            size: 12
+                        },
+                        formatter: function(value, context) {
+                            return '6%';
+                        }
+                    }
+                },
+                cutout: '40%'
+            }
+        });
+    </script>
+
+</body>
+</html>
