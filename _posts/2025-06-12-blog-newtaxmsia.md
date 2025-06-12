@@ -1,7 +1,7 @@
 ---
 title: 'Navigating the New Service Tax Landscape'
 date: 2025-06-12
-permalink: /posts/2023/09/blog-NewTaxMsia/
+permalink: /posts/2025/06/blog-NewTaxMsia/
 tags:
   - cool posts
   - tax
