@@ -9,11 +9,10 @@ tags:
 ---
 The amendments to Malaysia’s Service Tax framework, coming into effect on 1 July 2025, are expected to have a nuanced impact on both consumers and businesses. While the government aims to implement a targeted approach that minimizes the burden on the majority of Malaysian citizens, several sectors will likely experience price changes—either directly through new service taxes or indirectly through increased business costs that get passed on to end-users.
 
+![NewTaxMsia2025](https://fast.image.delivery/zvbykut.png)
+
 # Impact of Malaysia’s 2025 Service Tax Amendments  
 **Effective Date: 1 July 2025**
-
-👉 **[Infographic New Service Tax](https://anajmiariffin.github.io/assets/taxJuly2025.html)**
-
 
 ## Impact on Malaysian Citizens (Consumers)
 
