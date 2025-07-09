@@ -1,5 +1,5 @@
 ---
-title: 'The Connoisseur's Guide to Selecting Malaysia's Finest Durians'
+title: '''The Connoisseur's Guide to Selecting Malaysia's Finest Durians'''
 date: 2025-07-09
 permalink: /posts/2025/07/blog-durianking/
 tags:
