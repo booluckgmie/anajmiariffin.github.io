@@ -12,8 +12,6 @@ The durian, often revered as the "King of Fruits," occupies a unique and profoun
 
 The durian's significance extends deeply into local traditions, culinary practices, and the national economy, making it a cultural icon and a vital economic pillar for the nation. The Malaysian government's proactive involvement in promoting durian exports and developing new varieties underscores this deep intertwining, aiming to capitalize on and sustain this valuable asset. 
 
----
-
 ## I. Decoding Durian Varieties: A Spectrum of Flavors and Textures
 
 Malaysia is home to over 200 registered durian varieties, each offering a distinct sensory profile. Understanding these distinctions is foundational to choosing a durian that matches personal preferences.
