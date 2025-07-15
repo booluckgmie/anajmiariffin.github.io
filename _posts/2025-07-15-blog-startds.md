@@ -30,7 +30,7 @@ Whether you're starting your data science journey or leveling up your skills, th
 - **Focus**: Become proficient in data loading, cleaning, filtering, grouping (groupby), merging, and performing built-in statistical methods on tabular data.
 - **Learn More**: [https://pandas.pydata.org/](https://pandas.pydata.org/)
 
-### Pandas Profiling
+### `Pandas Profiling`
 - **Purpose**: Generates interactive HTML reports for quick exploratory data analysis, providing detailed statistics, visualizations, and insights into data quality.
 - **Focus**: Efficiently perform initial data assessment, identify missing values, correlations, and data types with minimal code.
 
@@ -65,11 +65,11 @@ Whether you're starting your data science journey or leveling up your skills, th
 - **Focus**: Understand data preprocessing techniques (e.g., categorical encoding, normalization), build and evaluate various machine learning models.
 - **Learn More**: [https://scikit-learn.org/](https://scikit-learn.org/)
 
-### PyCaret
+### `PyCaret`
 - **Purpose**: An open-source, low-code machine learning library that automates many aspects of the ML workflow, from data preparation to model deployment.
 - **Focus**: Explore automated machine learning (AutoML) for rapid prototyping, model comparison, and hyperparameter tuning, especially useful for accelerating ML experiments.
 
-### Matplotlib
+### `Matplotlib`
 - **Purpose**: The foundational Python library for creating a wide range of static, interactive, and animated visualizations.
 - **Focus**: Master creating various plots (scatter, line, bar, histogram, box plots) to visualize statistical distributions, trends, and relationships in your data. It's essential for presenting insights.
 - **Learn More**: [https://matplotlib.org/](https://matplotlib.org/)
@@ -86,7 +86,6 @@ Whether you're starting your data science journey or leveling up your skills, th
 - **Explore Other Visualization Libraries**: While Matplotlib is foundational, also look into Seaborn (for statistical plots) and Plotly (for interactive visualizations) as they build upon Matplotlib.
 - **Stay Updated**: The data science landscape evolves rapidly; continuously learn about new libraries and best practices.
 
----
 
 By following this roadmap, you'll build a robust skill set in Python for statistical analysis and data science, preparing you for a wide range of analytical challenges.
 
