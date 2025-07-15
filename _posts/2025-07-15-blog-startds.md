@@ -10,14 +10,6 @@ tags:
 
 Whether you're starting your data science journey or leveling up your skills, this roadmap highlights the essential Python libraries for statistical analysis, data manipulation, machine learning, and visualization. From beginner-friendly tools to advanced applications, here’s your step-by-step guide to becoming a proficient data scientist.
 
----
-
-# Roadmap: Essential Python Statistics Tools for Data Scientists
-
-This roadmap outlines key Python libraries for statistical analysis, data manipulation, machine learning, and visualization, guiding you from foundational concepts to more advanced applications.
-
----
-
 ## Phase 1: Foundational Skills & Basic Analysis
 
 ### Python's Built-in `statistics` Module
