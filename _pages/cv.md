@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download CV](https://anajmiariffin.netlify.app/files/najmi-ariffin-cv202403.pdf)
+[Download CV](https://s3.amazonaws.com/pub-cdn-us.apitemplate.io/2025/08/c0cff6a9-5a4c-440c-be57-71ab58f1e9f9.pdf?AWSAccessKeyId=AKIA6ENCBKJYLWJUD36X&Expires=1754034315&Signature=09obe6K5qNhiuf2AZq28fM0vPQc%3D&X-Amzn-Trace-Id=Root%3D1-688c546a-128c573a7fb79693010c7d39%3BParent%3Da64f3c4b2c695a4e%3BSampled%3D1%3BLineage%3D1%3Ae4823e7a%3A0)
 ### **Ahmad Najmi Ariffin**  
 Executive (Industry Advisory), Petroliam Nasional Berhad (PETRONAS)  
 [Email](mailto:anajmiariffin@gmail.com)| [LinkedIn](https://www.linkedin.com/in/najmiariffin/) | [Website](https://anajmiariffin.netlify.app/) | [GitHub](https://github.com/booluckgmie)  
