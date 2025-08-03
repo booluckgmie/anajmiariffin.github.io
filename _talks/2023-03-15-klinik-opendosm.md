@@ -17,7 +17,7 @@ location: "Pusat Latihan Polis (PULAPOL), Kuala Lumpur"
 **Tajuk:** *"Klinik OpenDOSM & Kawasanku"*  
 Sesi ini bertujuan untuk meningkatkan pemahaman dan penggunaan statistik yang dilancarkan oleh **OpenDOSM Next Gen** baru-baru ini.
 
-**Penceramah / PIC:**  
+**Jemputan / PIC:**  
 MUHAMMAD SYARIFUL IHSAN BIN IMANORDIN (INSPEKTOR)  
 Pegawai Sistem Maklumat Geografi (GIS)  
 Polis Diraja Malaysia (HQ)
