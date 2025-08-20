@@ -1,0 +1,60 @@
+---
+title: "Development Health Status"
+excerpt: "A structured health status for all connection, automation, monitoring projects within my purview. <br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Three.js Dot Plot</title>
+    <style>
+        body { margin: 0; }
+        canvas { display: block; }
+    </style>
+</head>
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r146/three.min.js"></script>
+    <script>
+        // Set up scene, camera, and renderer
+        const scene = new THREE.Scene();
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        const renderer = new THREE.WebGLRenderer();
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        document.body.appendChild(renderer.domElement);
+
+        // Data points for the dot plot
+        const dataPoints = [
+            { x: -5, y: 2, z: 0 },
+            { x: -3, y: 1, z: 0 },
+            { x: 0, y: 4, z: 0 },
+            { x: 2, y: -2, z: 0 },
+            { x: 4, y: 3, z: 0 },
+        ];
+
+        // Material for the dots
+        const dotMaterial = new THREE.MeshBasicMaterial({ color: 0xff0000 });
+
+        // Create dots and add to scene
+        dataPoints.forEach(point => {
+            const geometry = new THREE.SphereGeometry(0.1, 16, 16);
+            const dot = new THREE.Mesh(geometry, dotMaterial);
+            dot.position.set(point.x, point.y, point.z);
+            scene.add(dot);
+        });
+
+        // Set camera position
+        camera.position.z = 10;
+
+        // Animation loop
+        function animate() {
+            requestAnimationFrame(animate);
+            renderer.render(scene, camera);
+        }
+        animate();
+    </script>
+</body>
+</html>
