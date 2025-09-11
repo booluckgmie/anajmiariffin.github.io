@@ -1,6 +1,6 @@
 ---
 title: 'The Ripple Effect of Layoffs for Those Who Stay'
-date: 2023-09-11
+date: 2025-09-11
 permalink: /posts/2025/09/blog-layoffaiera/
 tags:
   - cool posts
