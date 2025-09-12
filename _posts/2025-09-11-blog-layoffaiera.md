@@ -8,9 +8,9 @@ tags:
   - malaysia
 ---
 
-The modern workplace is more complex than ever. Layoffs no longer just impact those who leave
+The modern workplace is more complex than ever. Layoffs no longer just impact those who leave. Layoffs are a jarring reality for any organization. But while the focus is often on those who leave, what about the silent majority who stay behind? 
 
-Layoffs are a jarring reality for any organization. But while the focus is often on those who leave, what about the silent majority who stay behind? The experience of surviving a layoff has changed dramatically, especially with the rise of AI and automation. What was once about a frozen salary and heavier workload has become a complex web of anxiety, competition with machines, and a deep-seated change in workplace culture.
+The experience of surviving a layoff has changed dramatically, especially with the rise of AI and automation. What was once about a frozen salary and heavier workload has become a complex web of anxiety, competition with machines, and a deep-seated change in workplace culture.
 
 ### The New Layoff Reality: Competing with Algorithms
 In 2011, layoffs were primarily a cost-cutting measure. Today, they are often linked to a company's push for efficiency through artificial intelligence. Employees who stay are now asked to learn new systems and, in a profound irony, train the very AI tools that could one day replace their jobs. This creates a psychological tension that is entirely new. The question is no longer just "am I productive enough?" but "am I better than the machine that is learning from me?"
