@@ -1,7 +1,7 @@
 ---
 title: 'Google Made 90% of the Internet Invisible'
 date: 2025-10-10
-permalink: /posts/2025/10/blog-GoogleInv90/
+permalink: /posts/2025/10/blog-googleinv90/
 tags:
   - cool posts
   - google
