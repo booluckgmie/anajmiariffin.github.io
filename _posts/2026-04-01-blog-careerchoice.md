@@ -1,7 +1,7 @@
 ---
 title: 'Grades Tell You What You CAN Do. Personality Tells You What You SHOULD Do.'
 date: 2026-04-01
-permalink: /posts/2026/04/blog-career-choice/
+permalink: /posts/2026/04/blog-careerchoice/
 tags:
   - cool posts
   - career
