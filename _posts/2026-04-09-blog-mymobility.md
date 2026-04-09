@@ -3,7 +3,6 @@ title: 'MY Mobility Index: Transition Into the 2026 WFH & Fuel Crisis Era'
 date: 2026-04-09
 permalink: /posts/2026/04/blog-mymobility/
 tags:
-  - cool posts
   - data analytics
   - public transport
   - work from home
