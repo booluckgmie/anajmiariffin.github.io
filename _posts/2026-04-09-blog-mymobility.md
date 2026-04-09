@@ -1,14 +1,14 @@
 ---
-title: 'MY Mobility Index: Tracking Malaysia's Transition Into the 2026 WFH & Fuel Crisis Era'
+title: 'MY Mobility Index: Tracking Malaysia Transition Into the 2026 WFH & Fuel Crisis Era'
 date: 2026-04-09
-permalink: /posts/2026/01/blog-mymobility/
+permalink: /posts/2026/04/blog-mymobility/
 tags:
   - cool posts
   - data analytics
-  - malaysia
   - public transport
   - work from home
 ---
+
 Are we moving smarter, or just moving less? Malaysia's 2026 mobility story is more than a fuel crisis — it's a national behavioural shift, and the data is finally catching up.
 
 ## The MF-Index: A New Way to Read Malaysia's Mobility Health
