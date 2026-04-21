@@ -40,7 +40,7 @@ It transforms "trading" into "monitoring."
 ## 🚀 Get the Alerts
 I’ve opened up the Telegram channel to share these daily insights with the community. If you're tracking gold prices in Malaysia and want to see the "math" behind the movement, come join us.
 
-**[Link to your Telegram Channel: https://t.me/goldAurumV_bot]**
+**[Link to your Telegram Channel: https://t.me/goldAurumV_bot](https://t.me/goldAurumV_bot)**
 
 Let the bots do the tracking. You just focus on the strategy.
 
@@ -48,4 +48,5 @@ Let the bots do the tracking. You just focus on the strategy.
 
 ---
 ## Reference
-https://github.com/booluckgmie/sharecode/blob/master/aurumvibe/README.md
+
+* [1] Github Booluckgmie AurumVide: [https://github.com/booluckgmie/sharecode/blob/master/aurumvibe/README.md](https://github.com/booluckgmie/sharecode/blob/master/aurumvibe/README.md)
