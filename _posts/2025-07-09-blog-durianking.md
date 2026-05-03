@@ -8,7 +8,9 @@ tags:
   - statistics
 ---
 
-The durian, often revered as the "King of Fruits," occupies a unique and profound position within Southeast Asian culture, particularly in Malaysia. Its distinctive, often polarizing, aroma and rich, creamy flesh have elevated it beyond a mere fruit to a cherished delicacy, sought after by both local aficionados and international visitors. 
+The durian, often revered as the "King of Fruits," occupies a unique and profound position within Southeast Asian culture, particularly in Malaysia. Its distinctive, often polarizing, aroma and rich, creamy flesh have elevated it beyond a mere fruit to a cherished delicacy, sought after by both local aficionados and international visitors.
+
+https://g.co/gemini/share/61c3de50a79f 
 
 The durian's significance extends deeply into local traditions, culinary practices, and the national economy, making it a cultural icon and a vital economic pillar for the nation. The Malaysian government's proactive involvement in promoting durian exports and developing new varieties underscores this deep intertwining, aiming to capitalize on and sustain this valuable asset. 
 
