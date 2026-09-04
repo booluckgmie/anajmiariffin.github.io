@@ -6,8 +6,21 @@
 
 Academic Pages is a Github Pages template for academic websites.
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/booluckgmie/anajmiariffin.github.io)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/booluckgmie/anajmiariffin.github.io)
 
-# Getting Started
+## Table of Contents
+
+- [Getting Started](#getting-started)
+- [Deploy Your Own Copy](#deploy-your-own-copy)
+  - [Deploy to Netlify](#deploy-to-netlify)
+  - [Deploy to Vercel](#deploy-to-vercel)
+- [Running Locally](#running-locally)
+- [Repository Contents](#repository-contents)
+- [Maintenance](#maintenance)
+  - [Bugfixes and Enhancements](#bugfixes-and-enhancements)
+
+## Getting Started
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
@@ -19,6 +32,22 @@ Academic Pages is a Github Pages template for academic websites.
 
 See more info at https://academicpages.github.io/
 
+## Deploy Your Own Copy
+
+Prefer not to set things up locally first? Fork this repository, then use one of the one-click buttons below to get a live preview deployed straight from your fork — handy for previewing changes before they go live on GitHub Pages.
+
+### Deploy to Netlify
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/booluckgmie/anajmiariffin.github.io)
+
+Netlify builds this Jekyll site automatically — no extra configuration needed.
+
+### Deploy to Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/booluckgmie/anajmiariffin.github.io)
+
+Vercel will clone the repository into your own account so you can deploy and iterate on it independently.
+
 ## Running Locally
 
 When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
@@ -28,14 +57,32 @@ When you are initially working your website, it is very useful to be able to pre
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
+## Repository Contents
 
-# Maintenance 
+A quick map of what lives in this repository, so you know where to make changes after cloning:
+
+| Path | Purpose |
+| --- | --- |
+| `_config.yml` | Site-wide configuration (name, bio, links, theme settings) |
+| `_pages/` | Standalone pages (About, CV, etc.) |
+| `_posts/` | Blog posts |
+| `_publications/` | Publication entries |
+| `_talks/` | Talks and presentations |
+| `_teaching/` | Teaching entries |
+| `_portfolio/` | Portfolio/project entries |
+| `_data/` | Structured data used across the site |
+| `_layouts/`, `_includes/`, `_sass/` | Jekyll layouts, includes, and styles |
+| `assets/`, `images/`, `files/` | Static assets, images, and downloadable files |
+| `markdown_generator/` | Notebooks/scripts to generate markdown from TSV data |
+| `talkmap.py`, `talkmap.ipynb`, `talkmap/` | Generates an interactive map of talk locations |
+
+## Maintenance 
 
 Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
 
 This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
 
-## Bugfixes and enhancements
+### Bugfixes and Enhancements
 
 If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
 
