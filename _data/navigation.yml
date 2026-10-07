@@ -5,12 +5,12 @@ main:
   - title: "Publications"
     url: https://www.researchgate.net/profile/Ahmad-Ariffin-11/research #/publications/
 
-  - title: "Talks"
-    url: #/talks/    
+  - title: "Talks & Teaching"
+    url: /talks/
 
-  - title: "Teaching"
-    url: https://github.com/booluckgmie/training  
-        
+  - title: "Showcase"
+    url: /showcase/
+
   - title: "Blog Posts"
     url: /year-archive/
     
