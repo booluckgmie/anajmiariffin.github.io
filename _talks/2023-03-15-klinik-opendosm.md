@@ -9,9 +9,8 @@ organiser: "Jabatan GIS, Polis Diraja Malaysia (HQ)"
 venue: "Pusat Latihan Polis (PULAPOL)"
 location: "Kuala Lumpur"
 mode: "On-site"
-lat: 3.139
-lon: 101.687
-approx_location: true
+lat: 3.1782
+lon: 101.7171
 ---
 
 Session to improve understanding and use of the statistics released on **OpenDOSM Next Gen** and Kawasanku, for the GIS Department of the Royal Malaysia Police.

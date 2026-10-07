@@ -9,8 +9,8 @@ organiser: "MySPC"
 venue: "DOSM Putrajaya, Block C6"
 location: "Putrajaya"
 mode: "On-site"
-lat: 2.91
-lon: 101.69
+lat: 2.9363
+lon: 101.6991
 ---
 
 Hands-on course on managing social-protection data, organised by MySPC.

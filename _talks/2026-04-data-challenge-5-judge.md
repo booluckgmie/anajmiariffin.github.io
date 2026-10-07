@@ -9,8 +9,8 @@ organiser: "UKM Statistics Club"
 venue: "Dewan Kuliah Besar 2 (DKB 2) and Persada FST, UKM Bangi"
 location: "Bangi, Selangor"
 mode: "On-site"
-lat: 2.93
-lon: 101.78
+lat: 2.9222
+lon: 101.7803
 ---
 
 Judge at Data Challenge 5.0, a national competition run by the UKM Statistics Club.

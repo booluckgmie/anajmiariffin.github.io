@@ -3,7 +3,7 @@ title: "Industry Guest Lecture Speaker"
 collection: talks
 type: "Guest lecture"
 permalink: /talks/2024-01-uniten-guest-lecture/
-date: 2024-01-10
+date: 2024-01-04
 display_date: "Jan 2024"
 organiser: "UNITEN, CCI"
 venue: "UNITEN, CCI"

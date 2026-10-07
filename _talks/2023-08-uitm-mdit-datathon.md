@@ -9,8 +9,8 @@ organiser: "UiTM"
 venue: "UiTM Shah Alam (hybrid, with Webex)"
 location: "Shah Alam, Selangor"
 mode: "Hybrid"
-lat: 3.07
-lon: 101.50
+lat: 3.0687
+lon: 101.4996
 redirect_from:
   - /teaching/2023-ogos-uitm-mdit
 ---

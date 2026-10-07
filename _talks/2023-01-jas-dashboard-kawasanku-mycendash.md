@@ -9,8 +9,8 @@ organiser: "JAS"
 venue: "Thistle Hotel, Port Dickson"
 location: "Teluk Kemang, Port Dickson, Negeri Sembilan"
 mode: "On-site"
-lat: 2.45
-lon: 101.86
+lat: 2.4305
+lon: 101.8590
 ---
 
 Sharing session on the Kawasanku and MyCenDash dashboards at a JAS workshop.

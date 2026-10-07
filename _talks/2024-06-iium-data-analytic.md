@@ -9,8 +9,8 @@ organiser: "IIUM"
 venue: "Kulliyyah of Economics and Management Sciences, IIUM Gombak"
 location: "Gombak, Selangor"
 mode: "On-site"
-lat: 3.25
-lon: 101.73
+lat: 3.2531
+lon: 101.7357
 note: "Course: Statistical Methods (ECON 1301)."
 redirect_from:
   - /teaching/2024-jun-iium

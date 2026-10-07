@@ -9,8 +9,8 @@ organiser: "KUSKOP (SIIM and PADU)"
 venue: "Dorsett Hartamas"
 location: "Kuala Lumpur"
 mode: "On-site"
-lat: 3.16
-lon: 101.65
+lat: 3.1627
+lon: 101.6557
 ---
 
 Pre-development meeting for the National Entrepreneur Repository (RUN), with KUSKOP, covering SIIM and PADU.

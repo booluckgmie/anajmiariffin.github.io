@@ -9,8 +9,8 @@ organiser: "UKM, Faculty of Social Sciences and Humanities"
 venue: "Dewan Anggerik, DOSM Putrajaya"
 location: "Putrajaya"
 mode: "On-site"
-lat: 2.91
-lon: 101.69
+lat: 2.9363
+lon: 101.6991
 redirect_from:
   - /teaching/2024-mei-opendosm
 ---
