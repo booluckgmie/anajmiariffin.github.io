@@ -30,12 +30,12 @@ Core strengths:
 Executive, Industry Advisory (Industry Shaping) | Group Procurement  
 *Jul 2024 – Present*
 - Engineered **NarrativeGPT** and **VRIMACPro**, NLP-based models producing automated strategic insights from unstructured data
-- Launched a **Digital Intelligence Automation Platform** reducing vendor analysis cycle time by 70% via streamlined workflows
-- Designed scalable ETL pipelines and BI dashboards in **SAMURAI**, improving manpower forecasting accuracy by 40%
-- Curated OGSE vendor profiles and analytics from 400+ entries for cross-divisional procurement optimization
+- Launched a **Digital Intelligence Automation Platform** streamlining vendor analysis workflows
+- Designed scalable ETL pipelines and BI dashboards in **SAMURAI** for manpower forecasting and workforce planning
+- Curated OGSE vendor profiles and analytics from 4,000+ entries for cross-divisional procurement optimization
 - Forecasted labor market trends for **OGSE Blueprint 2021–2030** using historical datasets and ML models
 - Developed a **COI (Conflict of Interest) Detection Engine** using relationship matrices and SWEC data for proactive audit management
-- Implemented **real-time PN17 compliance alerts**, enhancing regulatory responsiveness and reducing exposure by 60–90%
+- Implemented **real-time PN17 compliance alerts**, enhancing regulatory responsiveness
 - Automated **news/job listing scrapers** to feed dynamic dashboards with real-time sentiment and workforce movement
 - Directed agile UX prototyping for **SONIC 2.0**, integrating feedback loops and swimlane modeling for stakeholder collaboration
 - Created imputation models enhancing the reliability of financial risk assessments within VRIMACPro
@@ -46,13 +46,13 @@ Executive, Industry Advisory (Industry Shaping) | Group Procurement
 **Department of Statistics Malaysia (DOSM)**  
 Statistician / Data Scientist  
 *Mar 2019 – Jun 2024*
-- Co-led the architecture of **OpenDOSM**, Malaysia's open data platform reaching 50K+ monthly users
+- Co-led the architecture of **OpenDOSM**, Malaysia's open data platform, growing it into a high-traffic public data access point
 - Developed high-volume ETL pipelines and ML modules for **PADU**, centralizing socio-economic data across ministries
 - Delivered real-time national COVID-19 dashboards and spatial analytics tools (**GoTrace Apps**) for field deployment
 - Built **SIIM**, a dynamic micro-industry database improving informal sector policy interventions
-- Standardized BI delivery by implementing **Metabase**, improving stakeholder insights access by 80%
+- Standardized BI delivery by implementing **Metabase**, improving stakeholder self-service access to statistical outputs
 - Supported strategic modeling and socioeconomic forecasting for the Malaysian Social Protection Council
-- Reduced statistical report generation by 50% through automation with R, Python, and Excel VBA
+- Reduced manual report turnaround through automation with R, Python, and Excel VBA
 - Engaged in multi-agency collaboration to modernize government analytics frameworks and methodologies
 
 **University of Malaya**
@@ -131,7 +131,7 @@ UX/Workflow Mapping | Stakeholder Alignment | Government Data Modernization
 
 ### 🚀 Highlight Projects
 - **NarrativeGPT**: AI tool generating real-time narratives from unstructured OGSE data using NLP
-- **Digital Intelligence Automation**: Streamlined PETRONAS vendor analysis pipeline, improving turnaround by 70%
+- **Digital Intelligence Automation**: Streamlined PETRONAS vendor analysis pipeline
 - **PADU & OpenDOSM Pipelines**: Centralized government data platforms supporting multi-agency analytics
 - **SAMURAI Dashboards**: Real-time manpower planning visualizations used in state and federal planning
 - **VRIMACPro Alerts**: Predictive model flagging PN17 vendor risks via financial sentiment monitoring
