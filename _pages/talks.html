@@ -1,16 +1,66 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks & Teaching"
 permalink: /talks/
 author_profile: true
+redirect_from:
+  - /teaching/
+  - /talkmap.html
 ---
 
-{% if site.talkmap_link == true %}
+{% include base_path %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+<p>Talks, workshops, guest lectures, courses and competition judging. Pins on the map show venues; online sessions are listed below without a pin. Open-source Python training material: <a href="https://github.com/booluckgmie/training">github.com/booluckgmie/training</a>.</p>
 
-{% endif %}
+{% assign activities = site.talks | sort: "date" | reverse %}
+{% assign mapped = site.talks | where_exp: "t", "t.lat" %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+<div id="talkmap" style="height:420px;width:100%;border:1px solid #ddd;border-radius:4px;margin:1em 0" aria-label="Map of talk and teaching venues"></div>
+<p class="page__meta"><small>{{ mapped.size }} on-site venues mapped · {{ activities.size }} activities in total</small></p>
+
+{% assign current_year = "" %}
+{% for t in activities %}
+  {% assign y = t.date | date: "%Y" %}
+  {% if y != current_year %}
+    {% assign current_year = y %}
+    <h2 class="archive__subtitle" id="y{{ y }}">{{ y }}</h2>
+  {% endif %}
+  {% include activity-item.html t=t %}
 {% endfor %}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css">
+<style>
+  .activity__badge{display:inline-block;font-size:.75em;padding:.1em .6em;border-radius:1em;background:#eef2f4;border:1px solid #d6dde2}
+  .activity__badge--online{background:#eaf4ff;border-color:#bcd9f5}
+  .activity__note{color:#6b7280;font-size:.9em}
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js"></script>
+<script>
+  var points = [{% for t in mapped %}{
+    title: {{ t.title | jsonify }},
+    when: {% if t.display_date %}{{ t.display_date | jsonify }}{% else %}{{ t.date | date: "%-d %b %Y" | jsonify }}{% endif %},
+    place: {{ t.venue | default: t.location | jsonify }},
+    approx: {{ t.approx_location | default: false }},
+    url: {{ t.url | relative_url | jsonify }},
+    lat: {{ t.lat }}, lon: {{ t.lon }}
+  }{% unless forloop.last %},{% endunless %}{% endfor %}];
+
+  var map = L.map('talkmap').setView([3.0, 101.7], 8);
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 18,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+  var cluster = L.markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 40 });
+  points.forEach(function (p) {
+    var box = document.createElement('div');
+    var a = document.createElement('a'); a.href = p.url; a.textContent = p.title;
+    var b = document.createElement('div'); b.textContent = p.when + (p.place ? ' · ' + p.place : '') + (p.approx ? ' (approx.)' : '');
+    box.appendChild(a); box.appendChild(b);
+    cluster.addLayer(L.marker([p.lat, p.lon]).bindPopup(box));
+  });
+  map.addLayer(cluster);
+  if (points.length) map.fitBounds(cluster.getBounds().pad(0.2));
+</script>
