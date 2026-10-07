@@ -1,0 +1,19 @@
+{% assign t = include.t %}
+{% if t.display_date %}{% assign when = t.display_date %}{% else %}{% assign when = t.date | date: "%-d %b %Y" %}{% endif %}
+<div class="list__item activity">
+  <article class="archive__item" itemscope itemtype="http://schema.org/Event">
+    <h2 class="archive__item-title" itemprop="name">
+      <a href="{{ t.url | relative_url }}" rel="permalink">{{ t.title }}</a>
+    </h2>
+    <p class="page__meta">
+      <i class="fa fa-calendar" aria-hidden="true"></i> <time datetime="{{ t.date | date_to_xmlschema }}">{{ when }}</time>{% if t.time %}, {{ t.time }}{% endif %}
+      &nbsp;·&nbsp; <span class="activity__badge">{{ t.type }}</span>
+      {% if t.mode == "Online" %}<span class="activity__badge activity__badge--online">Online</span>{% elsif t.mode == "Hybrid" %}<span class="activity__badge activity__badge--online">Hybrid</span>{% endif %}
+    </p>
+    <p class="archive__item-excerpt" itemprop="description">
+      {% if t.organiser %}<strong>{{ t.organiser }}</strong>{% endif %}{% if t.venue %}{% if t.organiser %} — {% endif %}{{ t.venue }}{% endif %}{% if t.location and t.mode != "Online" %}{% if t.venue or t.organiser %}, {% endif %}{{ t.location }}{% endif %}
+      {% if t.approx_location %}<em>(map pin is approximate)</em>{% endif %}
+      {% if t.note %}<br><span class="activity__note">{{ t.note }}</span>{% endif %}
+    </p>
+  </article>
+</div>
