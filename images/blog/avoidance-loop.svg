@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" role="img" aria-label="Avoidance loop: anticipated discomfort leads to avoidance, then immediate relief, then a stronger urge to avoid next time, which feeds back to anticipated discomfort.">
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#5b7384"/></marker></defs>
+<rect width="900" height="260" rx="14" fill="#eef3f5"/>
+<g font-family="Helvetica,Arial,sans-serif" font-size="17" fill="#263a46" text-anchor="middle">
+<rect x="25" y="70" width="190" height="80" rx="12" fill="#c5d7de"/><text x="120" y="105">Anticipated</text><text x="120" y="128">discomfort</text>
+<rect x="250" y="70" width="190" height="80" rx="12" fill="#c5d7de"/><text x="345" y="116">Avoidance</text>
+<rect x="475" y="70" width="190" height="80" rx="12" fill="#c5d7de"/><text x="570" y="105">Immediate</text><text x="570" y="128">relief</text>
+<rect x="700" y="70" width="180" height="80" rx="12" fill="#e3d8b8"/><text x="790" y="105">Stronger urge</text><text x="790" y="128">to avoid next time</text>
+<path d="M215 110H244" stroke="#5b7384" stroke-width="3" fill="none" marker-end="url(#a)"/><path d="M440 110H469" stroke="#5b7384" stroke-width="3" fill="none" marker-end="url(#a)"/><path d="M665 110H694" stroke="#5b7384" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<path d="M790 150V215H120V154" stroke="#5b7384" stroke-width="3" fill="none" stroke-dasharray="7 6" marker-end="url(#a)"/>
+<text x="455" y="205" font-size="15" fill="#5b7384">relief ≠ resolution — the original worry never gets tested</text>
+<text x="450" y="38" font-size="20" font-weight="bold">Why avoidance feels so convincing</text></g></svg>
