@@ -1,18 +1,18 @@
 main:
+  - title: "Blog Posts"
+    url: /year-archive/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Showcase"
+    url: /showcase/
+
   - title: "Projects"
     url: /portfolio/
-    
+
   - title: "Publications"
     url: https://www.researchgate.net/profile/Ahmad-Ariffin-11/research #/publications/
 
   - title: "Talks & Teaching"
     url: /talks/
-
-  - title: "Showcase"
-    url: /showcase/
-
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
